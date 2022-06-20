@@ -1,0 +1,124 @@
+
+body {
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 1em;
+  background-color: #ffe8f8;
+}
+
+h1 {
+  padding-top: 100px;
+  width: 40%;
+  margin: 0  auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 3.5rem;
+  color: #E3F0FF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 1.5rem;
+  color: #415ad2;
+}
+
+h3 {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #6580ff;
+  font-weight: bold;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #1C285E;
+  border-width: 8px;
+  width: 10%;
+}
+
+
+a {
+  color: #E3F0FF;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+p {
+  font-weight: bold;
+}
+
+.profile {
+  width: 30%;
+  margin: 1rem auto 1rem auto;
+  line-height: 2;
+}
+
+.profile-pic{
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+}
+
+.icon-img-1{
+  width: 20%; /* 25% of their parent element*/
+  float: left;
+  margin-right: 10px;
+}
+
+.icon-img-2{
+  width: 20%; /* 25% of their parent element*/
+  float: right;
+  margin-right: 10px;
+}
+
+.top-h2 {
+  color: #E3F0FF;
+  font-weight: normal;
+}
+
+.top-container {
+  background-image: url(../images/night1886939.png);
+  background-color: #cccccc;
+  height: 500px;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.skill-row{
+  width: 50%;
+  margin: 10px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contact-me{
+  margin: 10px auto 50px auto;
+  width: 30%;
+  line-height: 2;
+}
+
+.btn {
+  border-radius: 30px;
+  background: #161F4A;
+  padding: 10px;
+}
+
+.bottom-container {
+  background-color: #5F3352;
+  padding: 30px 0 30px 0;
+}
+
+.footer-link{
+  margin: 10px 20px;
+  color: #350928;
+  font-size: 1.5rem;
+}
+
+.bottom-param{
+  margin-top: 30px;
+  color: #E3F0FF;
+  font-size: 12px;
+}
